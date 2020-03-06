@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+h1 {
+    color: #A60000;
+    font-size: 4.1em;font-family:'Spartan', sans-serif; 
+}
+h2 {
+    color: #263B5F;
+    font-size: 2.7em;font-family:'Spartan', sans-serif; 
+}
+p {color:#5F090A;
+	font-family: 'Source Sans Pro',serif; font-size: 1.3em}
+p.alternativo {color: #121E2A}
+.imagencentrada {display: block;
+margin-left:auto;
+margin-right: auto;
+width: 75%;}
